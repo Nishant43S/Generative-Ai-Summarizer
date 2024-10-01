@@ -73,7 +73,6 @@
         <li>Set Summary Length: Adjust the minimum length to control how detailed the summary is.</li>
         <li>Get an instant summary based on your preferences.</li>
     </ul>
-    <br>
     <h5>How It Works:</h5>
     <ol>
         <li>Paste Your Text: Copy your text into the provided text box.</li>
@@ -82,5 +81,17 @@
         <li>Generate Summary: Click to get your AI-generated summary instantly.</li>
     </ol>
 
+
+![Screenshot 2024-10-01 231325](https://github.com/user-attachments/assets/3d8dd165-2ce7-45c9-8a39-a85445434961)
+
+<br>
+
+![Screenshot 2024-10-01 231439](https://github.com/user-attachments/assets/fd50de7d-bca9-42c9-bb96-cc0826a74021)
+
+<hr>
+
+<h1>Pdf & Text Summarizer</h1>
+
+![Screenshot 2024-10-01 231648](https://github.com/user-attachments/assets/f5a021b8-4abf-455d-926f-22cbfdb4a9c0)
 
 
