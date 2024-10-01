@@ -42,4 +42,8 @@
         <li>Select a Model: Choose your preferred summarization model from BART, Pegasus, or T5.</li>
         <li>Get Your Summary: The app will generate the article and summary of the article.</li>
     </ol>
+    <br>
+![Screenshot 2024-10-01 225408](https://github.com/user-attachments/assets/212dfcb8-6111-4919-9162-08d2202f531a)
+<br>
+![Screenshot 2024-10-01 225620](https://github.com/user-attachments/assets/02fc7383-2e6a-4187-8534-49ec9e3ab294)
     <hr>
