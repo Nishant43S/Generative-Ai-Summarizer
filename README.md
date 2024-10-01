@@ -95,4 +95,33 @@
 
 ![Screenshot 2024-10-01 231648](https://github.com/user-attachments/assets/f5a021b8-4abf-455d-926f-22cbfdb4a9c0)
 
+<br>
+
+![Screenshot 2024-10-01 232005](https://github.com/user-attachments/assets/9e6ba8eb-72ab-4852-ac0f-d66ce999bf3c)
+
+<br>
+
+ <hr>
+    <h4>3. PDF & Text Summarizer</h4>
+    <p>It is a tool that allows you to quickly summarize PDF or text files using advanced AI technology. You can upload your PDF or text files, edit the text if needed, and generate a concise summary using the facebook/bart-large-cnn model. It's simple, fast, and user-friendly!</p>
+    <h5>Key Features:</h5>
+    <ul>
+        <li>Upload PDF or Text Files: Easily upload your PDF or text files for summarization.</li>
+        <li>PDF Display Tab: View your uploaded PDF file in the "PDF Display" tab.</li>
+        <li>Summarization Tab: Go to the "PDF Summarization" tab to generate the summary.</li>
+        <li>Select Page Number: Choose the page number of the PDF you want summarized.</li>
+        <li>Edit Page Text: You can edit the text from the selected page before summarization.</li>
+        <li>Set Summary Length: Adjust the minimum length of the summary to your preference.</li>
+        <li>Generate Summary: Click the "Generate Summary" button to get an instant, AI-generated summary.</li>
+    </ul>
+    <h5>How It Works:</h5>
+    <ol>
+        <li>Upload Your File: Upload your PDF or text file to the app.</li>
+        <li>View PDF: In the "PDF Display" tab, view the entire uploaded PDF.</li>
+        <li>Select a Page for Summarization: Switch to the "PDF Summarization" tab and select the page number you want summarized.</li>
+        <li>Edit Text: Edit the text of the selected page.</li>
+        <li>Set Minimum Length: Choose the minimum length for the summary.</li>
+        <li>Generate Summary: Press the "Generate Summary" button, and your summary will be generated.</li>
+    </ol>
+
 
