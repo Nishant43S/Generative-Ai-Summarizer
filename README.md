@@ -5,7 +5,7 @@
 <br>
 <p>GenAi Summarizer is a generative AI-powered app designed to make summarizing content fast and easy. Built on the Streamlit platform, this app uses advanced AI models to provide accurate and concise summaries of text, helping you quickly grasp the key points of any content.</p>
 
-<hr>
+
 <hr>
     <h5>Key Features:</h5>
     <ul>
