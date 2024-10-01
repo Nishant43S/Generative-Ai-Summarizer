@@ -51,3 +51,6 @@
 ![Screenshot 2024-10-01 225620](https://github.com/user-attachments/assets/02fc7383-2e6a-4187-8534-49ec9e3ab294)
 
     <hr>
+
+def info():
+    pass
