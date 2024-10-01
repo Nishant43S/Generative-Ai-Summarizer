@@ -12,7 +12,12 @@
     <li>Generative Ai - Summarization Task</li>
     <li>Natural language processing - generating tokens of text</li>
 </ul>
-
+<h5>Huging face modals used</h5>
+<ol>
+    <li>facebook/bart-large-cnn</li>
+    <li>google/pegasus-xsum</li>
+    <li>t5-base</li>
+</ol>
 <hr>
     <h5>Key Features:</h5>
     <ul>
@@ -123,5 +128,32 @@
         <li>Set Minimum Length: Choose the minimum length for the summary.</li>
         <li>Generate Summary: Press the "Generate Summary" button, and your summary will be generated.</li>
     </ol>
+
+<br>
+
+<h4>Extract Text By page number</h4>
+
+![Screenshot 2024-10-01 232242](https://github.com/user-attachments/assets/c7302e10-219a-49ea-960b-a4f710cbc7f8)
+
+<h4>Generate page summary</h4>
+
+![Screenshot 2024-10-01 232556](https://github.com/user-attachments/assets/44df2d25-acd6-4c51-974c-0dd6391ca60f)
+
+
+<h4>Extract Pdf text</h4>
+
+![Screenshot 2024-10-01 233154](https://github.com/user-attachments/assets/a960c788-4ea4-4fe9-9a93-2fa2e973bf42)
+
+<hr>
+
+<h3>Lottie Animations Used</h3>
+
+
+![Screenshot 2024-10-01 233346](https://github.com/user-attachments/assets/685a4aed-95fe-4d00-a6d8-6e00bca771c2)
+
+
+<br>
+
+![Screenshot 2024-10-01 233530](https://github.com/user-attachments/assets/f66864c6-b509-4d3a-b842-678551434461)
 
 
