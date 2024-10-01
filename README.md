@@ -34,7 +34,6 @@
         <li>Article Scraping: Automatically pulls the content of the article for summarization.</li>
         <li>Summarizer Mode: Turn on summarization mode with a toggle button to generate the summary.</li>
     </ul>
-    <br>
     <h5>How It Works:</h5>
     <ol>
         <li>Enter a Keyword or URL: Type in your search keyword or paste the article URL on input box.</li>
