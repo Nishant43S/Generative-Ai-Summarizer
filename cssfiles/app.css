@@ -1,0 +1,21 @@
+*{
+    scrollbar-width: none;
+}
+
+/* main app css */
+[class="stAppViewMain main st-emotion-cache-bm2z3a ea3mdgi8"]{
+    background: #0f1116;
+}
+
+[class="st-emotion-cache-luriig ezrtsby2"]{
+    background: #0f1116;   
+}
+
+[data-testid="stBaseButton-header"]{
+    visibility: hidden;
+}
+
+::selection{
+    background: #421b9b;
+    color: whitesmoke;
+}

@@ -1,0 +1,43 @@
+
+/* google modal css */
+
+.google-modal{
+    font-size: 17px;
+    color: #7dd87d;
+    font-weight: 500;
+    transition: 0.3s ease-in-out;
+    /* display: inline-block; */
+    cursor: pointer;
+}
+
+.google-modal:hover{
+    text-shadow: 0 0 5px #7dd87d;
+}
+
+/* facebook modal */
+
+.facebook-modal{
+    font-size: 17px;
+    color: #f8b400;
+    font-weight: 500;
+    transition: 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+.facebook-modal:hover{
+    text-shadow: 0 0 5px #f8b400;
+}
+
+/* facebook modal */
+
+.t5-modal{
+    font-size: 17px;
+    color: crimson;
+    font-weight: 500;
+    transition: 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+.t5-modal:hover{
+    text-shadow: 0 0 5px crimson;
+}

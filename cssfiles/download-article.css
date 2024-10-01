@@ -1,0 +1,61 @@
+
+.neon-button {
+    padding: 8px 16px;
+    font-size: 14px;
+    color: #fff;
+    background: none;
+    border: 2px solid #645fce;
+    border-radius: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    transition: color 0.3s, box-shadow 0.3s, border-color 0.3s;
+}
+
+.neon-button:hover {
+    color: #645fce;
+    border-color: #645fce;
+    box-shadow: 0 0 8px #645fce, 0 0 16px #645fce;
+}
+
+
+/* Tablets (portrait and landscape) */
+@media (min-width: 600px) and (max-width: 899px) {
+    .neon-button {
+        padding: 10px 20px;
+        font-size: 16px;
+    }
+}
+
+/* Mobile phones (portrait) */
+@media (max-width: 599px) {
+    .neon-button {
+        padding: 12px 24px;
+        font-size: 18px;
+    }
+}
+
+/* Laptops and larger screens */
+@media (min-width: 900px) {
+    .neon-button {
+        padding: 8px 16px;
+        font-size: 14px;
+    }
+}
+
+/* Mobile phones (portrait) */
+@media (max-width: 599px) {
+    .neon-button {
+        padding: 4px 8px;
+        font-size: 13px;
+    }
+}
+
+/* Laptops and larger screens */
+@media (min-width: 900px) {
+    .neon-button {
+        padding: 8px 16px;
+        font-size: 14px;
+    }
+}
+

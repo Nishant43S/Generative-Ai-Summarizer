@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+         .icon-container{
+            max-width: 350px;
+            height: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-start;
+            align-items: center;
+            margin-top: 19px;
+        }
+        .icon{
+            display: flex;
+            justify-content: center;
+            list-style: none;
+        }
+        .icon li a{
+            font-size: 21px;
+            height: 36px;
+            width: 36px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 50%;
+            color: white;
+            background: #1a1b25;
+            text-decoration: none;
+            position: relative;
+            transition: 0.3s ease;
+        }
+        
+        .icon li a:hover{
+            color: #6643b5;
+            box-shadow: 0 0 15px #6643b5;
+        }
+        .link-cl{
+            margin-top: 75px;
+        }
+        .project-btn{
+            width: 145px;
+            height: 41px;
+            padding: 6px 10px;
+            border: 1px solid #27296d;
+            color: #ffff;
+            background: none;
+            border-radius: 13px;
+            cursor: pointer;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            transition: 0.3s ease-in;
+        }
+        .project-btn:hover{
+            box-shadow: 0 0 15px #27296d;
+        }
+    </style>
+</head>
+<body>
+    <p>GenAi Summarizer is a generative AI-powered app designed to make summarizing content fast and easy. Built on the Streamlit platform, this app uses advanced AI models to provide accurate and concise summaries of text, helping you quickly grasp the key points of any content.</p>
+    <hr>
+    <h5>Key Features:</h5>
+    <ul>
+        <li><b>AI-Powered Summarization:</b> The app uses state-of-the-art models like BART, Pegasus, and T5 to generate high-quality summaries.
+        </li>
+        <li><b>Fast and Accurate:</b> Get summaries in seconds, saving time while ensuring you get all the important information.</li>
+        <li><b>User-Friendly Interface:</b> Simple design powered by Streamlit for easy navigation and use.</li>
+    </ul>
+    <hr>
+    <h4>Tools Present in app</h4>
+    <ol>
+        <li>Web Article Summarizer</li>
+        <li>Text Summarizer</li>
+        <li>PDF, Text Summarizer</li>
+    </ol>
+    <hr>
+    <h4>1. Web Article Summarizer</h4>
+    <p>It is a web article summarizer that helps you quickly get summaries of online articles. You can either enter a search keyword or paste the URL of any article, and the app will generate a summary based on the number of paragraphs you choose.</p>
+    <h5>Key Features:</h5>
+    <ul>
+        <li>Search or Paste URL: Find articles by entering a search keyword or simply paste the URL of an article from any website.</li>
+        <li>Choose the number of paragraphs you want in the summary Maximum - 10.</li>
+        <li>Article Scraping: Automatically pulls the content of the article for summarization.</li>
+        <li>Summarizer Mode: Turn on summarization mode with a toggle button to generate the summary.</li>
+    </ul>
+    <br>
+    <h5>How It Works:</h5>
+    <ol>
+        <li>Enter a Keyword or URL: Type in your search keyword or paste the article URL on input box.</li>
+        <li>Turn On Summarizer Mode: Toggle the button to activate summarization mode.</li>
+        <li>Select Minimumum length on slider</li>
+        <li>Select a Model: Choose your preferred summarization model from BART, Pegasus, or T5.</li>
+        <li>Get Your Summary: The app will generate the article and summary of the article.</li>
+    </ol>
+    <hr>
+    <h4>2. Text Summarizer</h4>
+    <p>It is a tool that allows you to quickly generate summaries of any text using advanced AI models. Just paste your text into the text box, choose a Hugging Face model, and set the minimum length for your summary. The app will automatically generate a concise and accurate summary.</p>
+    <h5>Key Features:</h5>
+    <ul>
+        <li>Paste Your Text: Copy and paste any text you want summarized.</li>
+        <li>Select a Model: Choose a modal for summarization</li>
+        <li>Set Summary Length: Adjust the minimum length to control how detailed the summary is.</li>
+        <li>Get an instant summary based on your preferences.</li>
+    </ul>
+    <br>
+    <h5>How It Works:</h5>
+    <ol>
+        <li>Paste Your Text: Copy your text into the provided text box.</li>
+        <li>Choose a Model: Select from BART, Pegasus, or T5 for the summarization task.</li>
+        <li>Set Minimum Length: Choose how short or long you want the summary to be.</li>
+        <li>Generate Summary: Click to get your AI-generated summary instantly.</li>
+    </ol>
+    <hr>
+    <h4>3. PDF & Text Summarizer</h4>
+    <p>It is a tool that allows you to quickly summarize PDF or text files using advanced AI technology. You can upload your PDF or text files, edit the text if needed, and generate a concise summary using the facebook/bart-large-cnn model. It's simple, fast, and user-friendly!</p>
+    <h5>Key Features:</h5>
+    <ul>
+        <li>Upload PDF or Text Files: Easily upload your PDF or text files for summarization.</li>
+        <li>PDF Display Tab: View your uploaded PDF file in the "PDF Display" tab.</li>
+        <li>Summarization Tab: Go to the "PDF Summarization" tab to generate the summary.</li>
+        <li>Select Page Number: Choose the page number of the PDF you want summarized.</li>
+        <li>Edit Page Text: You can edit the text from the selected page before summarization.</li>
+        <li>Set Summary Length: Adjust the minimum length of the summary to your preference.</li>
+        <li>Generate Summary: Click the "Generate Summary" button to get an instant, AI-generated summary.</li>
+    </ul>
+    <h5>How It Works:</h5>
+    <ol>
+        <li>Upload Your File: Upload your PDF or text file to the app.</li>
+        <li>View PDF: In the "PDF Display" tab, view the entire uploaded PDF.</li>
+        <li>Select a Page for Summarization: Switch to the "PDF Summarization" tab and select the page number you want summarized.</li>
+        <li>Edit Text: Edit the text of the selected page.</li>
+        <li>Set Minimum Length: Choose the minimum length for the summary.</li>
+        <li>Generate Summary: Press the "Generate Summary" button, and your summary will be generated.</li>
+    </ol>
+    <hr>
+    <h4>Developer</h4>
+    <h5><b>-Nishant Maity</b></h5>
+    <div class="wrapper">
+        <div class="icon-container">
+            <ul type="none" class="icon">
+                <li>
+                    <a target="_main" href="https://github.com/Nishant43S"><i class="fa-brands fa-github"></i></a>
+                </li>
+                <li>
+                    <a target="_main" href="https://www.linkedin.com/in/nishant-maity/"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                <li>
+                    <a target="_main" href="https://www.instagram.com/invites/contact/?igsh=18v15zzwabz7i&utm_content=m95jbmo"><i class="fa-brands fa-instagram"></i></a>
+                </li>
+                <li>
+                    <a target="_main" href="https://x.com/Nishant43S?t=BguN6olmz0Ix31SUG8s_lQ&s=08"><i class="fa-brands fa-x-twitter"></i></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="link-cl">
+        <a class="github-link" target="_main"  href="https://github.com/Nishant43S/Generative-Ai-Summarizer.git">
+            <button class="project-btn">Project Link</button>
+        </a>
+    </div>
+</body>
+</html>
