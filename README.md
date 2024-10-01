@@ -29,7 +29,7 @@
         <li>PDF, Text Summarizer</li>
     </ol>
     <hr>
-    
+ <h1>Web Article Summarizer</h1>   
 ![Screenshot 2024-10-01 224935](https://github.com/user-attachments/assets/77447c32-db98-45ca-92b4-4c1e16aaac21)
 
 <h4>1. Web Article Summarizer</h4>
@@ -59,6 +59,8 @@
     <hr>
 
 <br>
+
+<h1>Text Summarizer</h1>
 
 ![Screenshot 2024-10-01 230829](https://github.com/user-attachments/assets/89f15b94-9cd6-4434-9b9e-cf68f007b0a1)
 
