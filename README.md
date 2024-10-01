@@ -5,6 +5,13 @@
 <br>
 <p>GenAi Summarizer is a generative AI-powered app designed to make summarizing content fast and easy. Built on the Streamlit platform, this app uses advanced AI models to provide accurate and concise summaries of text, helping you quickly grasp the key points of any content.</p>
 
+<h5>Technologies Used</h5>
+<ul>
+    <li>Machine Mearning - naive bayes classifier - for text or url</li>
+    <li>web scraping - scraping articles</li>
+    <li>Generative Ai - Summarization Task</li>
+    <li>Natural language processing - generating tokens of text</li>
+</ul>
 
 <hr>
     <h5>Key Features:</h5>
@@ -49,8 +56,29 @@
 <br>
 
 ![Screenshot 2024-10-01 225620](https://github.com/user-attachments/assets/02fc7383-2e6a-4187-8534-49ec9e3ab294)
-
     <hr>
 
-def info():
-    pass
+<br>
+
+![Screenshot 2024-10-01 230829](https://github.com/user-attachments/assets/89f15b94-9cd6-4434-9b9e-cf68f007b0a1)
+
+<h4>2. Text Summarizer</h4>
+    <p>It is a tool that allows you to quickly generate summaries of any text using advanced AI models. Just paste your text into the text box, choose a Hugging Face model, and set the minimum length for your summary. The app will automatically generate a concise and accurate summary.</p>
+    <h5>Key Features:</h5>
+    <ul>
+        <li>Paste Your Text: Copy and paste any text you want summarized.</li>
+        <li>Select a Model: Choose a modal for summarization</li>
+        <li>Set Summary Length: Adjust the minimum length to control how detailed the summary is.</li>
+        <li>Get an instant summary based on your preferences.</li>
+    </ul>
+    <br>
+    <h5>How It Works:</h5>
+    <ol>
+        <li>Paste Your Text: Copy your text into the provided text box.</li>
+        <li>Choose a Model: Select from BART, Pegasus, or T5 for the summarization task.</li>
+        <li>Set Minimum Length: Choose how short or long you want the summary to be.</li>
+        <li>Generate Summary: Click to get your AI-generated summary instantly.</li>
+    </ol>
+
+
+
