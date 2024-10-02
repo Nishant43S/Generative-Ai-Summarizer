@@ -1,5 +1,7 @@
 # Generative Ai Summarizer 🤖
 
+use app - <a href="https://nishant43s-genai-summarizer.hf.space/">app link</a>
+
 ![Screenshot 2024-10-01 120923](https://github.com/user-attachments/assets/b2c4e13b-164c-4feb-8b34-6f091750624f)
 
 <br>
